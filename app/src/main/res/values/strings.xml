@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="error_text">Unable to access camera</string>
+    <string name="error_title">No Flashlight</string>
+    <string name="exit_message">Exit</string>
+</resources>
